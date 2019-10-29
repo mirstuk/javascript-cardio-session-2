@@ -1,0 +1,12 @@
+{
+  "name": "javascript-cardio-session-2",
+  "version": "1.0.0",
+  "description": "some JavaScript challenges",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Francesco Mirabella",
+  "license": "ISC"
+}
